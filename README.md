@@ -1,0 +1,1 @@
+# input-number-and-print-on-repetation-with-array
